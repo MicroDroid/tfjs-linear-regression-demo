@@ -3,7 +3,7 @@ Linear Regression Demo (Tensorflow.js)
 
 This is a Stochastic Linear Regression implementation using Tensorflow.js which runs in the browser.
 
-See GitHub pages demo (repository description).
+[See demo](https://overcoder.dev/tfjs-linear-regression-demo/)
 
 ### Project structure
 
